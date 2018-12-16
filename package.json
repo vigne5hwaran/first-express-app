@@ -1,0 +1,14 @@
+od{
+  "name": "demoexercise",
+  "version": "1.0.0",
+  "description": "solution to the first Express app exercise",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vignesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
